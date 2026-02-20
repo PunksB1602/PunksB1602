@@ -10,6 +10,8 @@ Developer and researcher working across AI, Machine Learning, web technologies, 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PunksB1602&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/PunksB1602)
 
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=PunksB1602&theme=darkhub)
+
 ---
 
 ## Contact
