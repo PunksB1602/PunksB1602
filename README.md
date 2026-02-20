@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pankaj Bhatt
 
-<!--
-**PunksB1602/PunksB1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and researcher working across AI, Machine Learning, web technologies, and applied ML. I focus on building scalable projects in deep learning, image and signal processing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PunksB1602&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PunksB1602&layout=compact&theme=tokyonight)
+
+---
+
+## Contact
+
+- GitHub: [PunksB1602](https://github.com/PunksB1602)
