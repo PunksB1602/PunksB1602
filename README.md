@@ -1,52 +1,15 @@
-# 👋 Hi, I'm Pankaj Bhatt
+# Hi, I'm Pankaj Bhatt
 
-🧠 AI / ML Developer & Researcher  
-Building scalable systems in deep learning, computer vision, and signal processing.
+Developer and researcher working across AI, Machine Learning, web technologies, and applied ML. I focus on building scalable projects in deep learning, image and signal processing.
 
-I focus on:
-- Applied Deep Learning
-- Image & Signal Processing
-- ML System Design
-- Research-to-Production Pipelines
-
----
-
-## 🚀 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,linux,git,react,nodejs)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
 
-## 🧩 Specialization
+## Contact
 
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-1f77b4)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-2ca02c)
-![Signal Processing](https://img.shields.io/badge/Signal-Processing-ff7f0e)
-![ML Systems](https://img.shields.io/badge/ML-Systems-9467bd)
-![Scalable Backend](https://img.shields.io/badge/Scalable-Backend-8c564b)
-
----
-
-## 🏗 Featured Projects
-
-### 🔬 Project Name
-Short one-line description of what it solves.  
-Tech: PyTorch · OpenCV · Docker
-
-### 🧠 Project Name
-Short one-line description.  
-Tech: TensorFlow · FastAPI · ML Deployment
-
-### 📊 Project Name
-Short one-line description.  
-Tech: Python · Signal Processing · NumPy
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/PunksB1602
-- LinkedIn: (add if available)
-
----
-⭐ Always open to collaboration in AI/ML research and applied systems.
+- GitHub: [PunksB1602](https://github.com/PunksB1602)
